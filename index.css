@@ -1,0 +1,184 @@
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #2A3137; 
+  
+	
+}
+
+.l {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+
+}
+
+h1 {
+  margin: 0;
+  font-family:  Aviano;
+  color: green;
+
+
+}
+.a{
+  color: red;
+}
+
+.pro {
+  text-decoration: underline;
+  font-family: 'Nosifer', cursive;
+  color: #05dfd7;
+}
+p{
+  color: #76ead7;
+  line-height: 2;
+
+}
+.pk{
+  font-size: 1.5em;
+}
+.bc{
+  position: absolute;
+  left: 70px;
+  bottom: 300px;
+
+}
+.tc{
+  position: relative;
+  left: 400px;
+  bottom:50px;
+
+}
+hr{
+
+  width: 10%;
+  border-style:dotted none none;
+  border-width: 10px;
+  color: #EAF6F6;
+  margin: 100px auto;
+}
+h3{
+  color: #a2de96;
+}
+h2{
+  color: #a2de96;
+  padding-bottom: 10px;
+}
+
+.skill-row{
+  width: 50%;
+  margin:100px auto ;
+  text-align: left;
+  line-height: 2;
+}
+a{
+  color: #66BFBF;
+}
+.skill
+{
+  width: 50%;
+  float: left;
+}
+.skill2{
+float: right;
+
+
+}
+.a1{
+margin: 50px;}
+.intro{
+  width: 20%;
+  margin: auto;
+  margin-bottom: 30px;
+}
+.contact-me{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.bottom-container{
+  background-color:#66BFBF;
+  padding: 50px 0 20px;
+}
+a{
+  margin: 10px 20px;
+  color: #11999E;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.btn{
+
+  margin: 100px;
+}
+.K{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+
+/* My Profile
+.myp{
+  padding-top: 20px;
+  width: 120px;
+  height: 120px;
+} */
+
+
+/* //<--------------------------------------------------->// */
+
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5rem;
+}
+
+.button i {
+  font-size: 1.25rem;
+}
+
+.button:hover {
+  background-color: green
+}
+
+.mountain{
+  max-width: 50%;
+  max-height: 50%;
+  position: relative;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 50px;
+}
+
+/* <------------------------------------------------------------------------------------------------------> */
+
+
+.headshot {
+	flex-shrink: 0;
+	margin: 20px;
+	height: calc(150px + 6vw);
+	width: calc(150px + 6vw);
+	border: calc(8px + 0.2vw) solid transparent;
+	background-origin: border-box;
+	background-clip: content-box, border-box;
+	background-size: cover;
+	box-sizing: border-box;
+	box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.headshot-2 {
+	border-radius: 50%;
+	background-image: var(--img-url), linear-gradient(to bottom right, #ff3cac, #562b7c, #2b86c5);
+}
+
+
+
+
+
